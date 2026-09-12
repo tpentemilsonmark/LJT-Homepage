@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic homepage"
 url                      : https://tpentemilsonmark.github.io # The base hostname & protocol for your site
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tpentemilsonmark/academicpages.github.io"
+baseurl                  : "/LJT-Homepage" # the subpath of your site
+repository               : "tpentemilsonmark/LJT-Homepage"
 
 # Site Author
 author:
