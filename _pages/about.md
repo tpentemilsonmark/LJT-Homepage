@@ -26,6 +26,12 @@ Research Experience
 - **Research Intern**, Tencent WXG (June 2024 – September 2024), advised by Zifei Shan
 - **Research Intern**, Shanghai AI Lab (June 2023 – December 2023), advised by Prof. Yu Cheng
 
+Skills
+======
+- **Research Areas**: Natural Language Processing (NLP), Machine Learning, Large Language Models (LLMs), Vision-Language Models (VLMs)
+- **Topics**: LLM Reasoning, Reinforcement Learning, Hallucination Mitigation, LLM Truthfulness, Model Interpretability, Evaluation of Foundation Models, Parameter-Efficient Module Composition
+- **Infrastructure & Tools**: PyTorch-based deep learning research, model training/inference, data synthesis pipelines, academic code release for research projects
+
 Publications
 ======
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, Arxiv) — First author
@@ -38,3 +44,10 @@ Publications
 Awards
 ======
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+
+Contact
+======
+- **Email**: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+- **GitHub**: [Vicent0205](https://github.com/Vicent0205)
+- **Google Scholar**: [Junteng Liu](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- **X (Twitter)**: [@junteng88716710](https://twitter.com/junteng88716710)
