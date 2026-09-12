@@ -34,12 +34,18 @@ Skills
 
 Publications
 ======
-- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, Arxiv) — First author
-- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, Arxiv) — First author
-- **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024) — First author
-- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024) — Co-author
-- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023) — Co-author
-- **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023) — Co-author
+
+The following mirrors the [Publications](/publications/) subpage, so visitors can see my work right away on the landing page.
+
+{% for publication in site.publications reversed %}
+  <p>
+    <a href="{{ publication.permalink | relative_url }}"><b>{{ publication.title }}</b></a><br>
+    {% if publication.venue %}<i>{{ publication.venue }}</i>.{% endif %}
+    {% if publication.citation %} {{ publication.citation | strip_html }}{% endif %}
+  </p>
+{% endfor %}
+
+See the dedicated [Publications](/publications/) page for full details and links.
 
 Awards
 ======
