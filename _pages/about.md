@@ -26,12 +26,6 @@ Research Experience
 - **Research Intern**, Tencent WXG (June 2024 – September 2024), advised by Zifei Shan
 - **Research Intern**, Shanghai AI Lab (June 2023 – December 2023), advised by Prof. Yu Cheng
 
-Skills
-======
-- **Research Areas**: Natural Language Processing (NLP), Machine Learning, Large Language Models (LLMs), Vision-Language Models (VLMs)
-- **Topics**: LLM Reasoning, Reinforcement Learning, Hallucination Mitigation, LLM Truthfulness, Model Interpretability, Evaluation of Foundation Models, Parameter-Efficient Module Composition
-- **Infrastructure & Tools**: PyTorch-based deep learning research, model training/inference, data synthesis pipelines, academic code release for research projects
-
 Publications
 ======
 Recorded here in the about section in addition to the dedicated [Publications](/publications/) subpage.
