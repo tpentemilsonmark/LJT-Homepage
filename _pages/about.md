@@ -32,21 +32,6 @@ Skills
 - **Topics**: LLM Reasoning, Reinforcement Learning, Hallucination Mitigation, LLM Truthfulness, Model Interpretability, Evaluation of Foundation Models, Parameter-Efficient Module Composition
 - **Infrastructure & Tools**: PyTorch-based deep learning research, model training/inference, data synthesis pipelines, academic code release for research projects
 
-Publications
-======
-
-The following mirrors the [Publications](/publications/) subpage, so visitors can see my work right away on the landing page.
-
-{% for publication in site.publications reversed %}
-  <p>
-    <a href="{{ publication.permalink | relative_url }}"><b>{{ publication.title }}</b></a><br>
-    {% if publication.venue %}<i>{{ publication.venue }}</i>.{% endif %}
-    {% if publication.citation %} {{ publication.citation | strip_html }}{% endif %}
-  </p>
-{% endfor %}
-
-See the dedicated [Publications](/publications/) page for full details and links.
-
 Awards
 ======
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
