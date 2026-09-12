@@ -32,6 +32,17 @@ Skills
 - **Topics**: LLM Reasoning, Reinforcement Learning, Hallucination Mitigation, LLM Truthfulness, Model Interpretability, Evaluation of Foundation Models, Parameter-Efficient Module Composition
 - **Infrastructure & Tools**: PyTorch-based deep learning research, model training/inference, data synthesis pipelines, academic code release for research projects
 
+Publications
+======
+Recorded here in the about section in addition to the dedicated [Publications](/publications/) subpage.
+
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, Arxiv) — First author
+- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, Arxiv) — First author
+- **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024) — First author
+- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024) — Co-author
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (NeurIPS 2023) — Co-author
+- **Composing Parameter-Efficient Modules with Arithmetic Operations** (NeurIPS 2023) — Co-author
+
 Awards
 ======
 - Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
