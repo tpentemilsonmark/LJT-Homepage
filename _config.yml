@@ -344,7 +344,6 @@ tag_archive:
 # jekyll-archives:
 #   enabled:
 #     - categories
-#     - categories
 #     - tags
 #   layouts:
 #     category: archive-taxonomy
