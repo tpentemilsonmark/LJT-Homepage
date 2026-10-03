@@ -53,7 +53,7 @@ My research focuses on natural language processing and machine learning. My spec
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations.** NeurIPS 2023.
    Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.
 
-The publications are also listed on the [Publications](/publications/) page.
+The publications are also listed on the [Publications]({{ '/publications/' | relative_url }}) page.
 
 ## Contact
 
